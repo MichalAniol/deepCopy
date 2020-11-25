@@ -1,0 +1,15 @@
+:root {
+    --color_1: #006600;
+    --color_2: #001600;
+    --color_3: #000800;
+    --color_back: black;
+}
+
+body {
+    margin: 10px;
+    padding: 0;
+    background-color: var(--color_back);
+    color: var(--color_1);
+    font-family: var(--font);
+    font-size: 20px;
+}
